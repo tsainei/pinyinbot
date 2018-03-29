@@ -9,7 +9,7 @@ These terms are an agreement for the use of Pinyin Bot (the bot). Please read th
 
 **If you comply with these terms, you have the rights below.**
 
-1.  **USE: **You may use the bot for the sole purpose of interacting with the service provided by the bot publisher on the platform. The bot publisher reserves all other rights.
+1.  **USE:** You may use the bot for the sole purpose of interacting with the service provided by the bot publisher on the platform. The bot publisher reserves all other rights.
 
 2.  **RESTRICTIONS:** You may not:
 
@@ -53,7 +53,7 @@ These terms are an agreement for the use of Pinyin Bot (the bot). Please read th
 
     2.  **Outside the United States and Canada.** If you acquired the bot in any other country, the laws of that country apply.
 
-10. **LEGAL EFFECT. **This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn't change your rights under the laws of your state or country if the laws of your state or country don't permit it to do so.
+10. **LEGAL EFFECT.** This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn't change your rights under the laws of your state or country if the laws of your state or country don't permit it to do so.
 
 11. **DISCLAIMER OF WARRANTY.** The bot and the service accessed via the bot are provided "as is" "with all faults" and "as available". You bear the risk as to its quality and performance. The bot publisher gives no express warranties, guarantees, or conditions in relation to the bot. To the extent permitted under your local laws, Bot publisher excludes any implied warranties or conditions, including those of merchantability, fitness for a particular purpose and non-infringement.
 
